@@ -84,6 +84,6 @@ Download links:
 
 <ul>
 
-  <li>Windows</li>
+  <li>Windows | https://mega.co.nz/#!OkBw0bSI</li>
 
 </ul>
