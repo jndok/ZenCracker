@@ -12,7 +12,8 @@ An advanced hash-computing method, is a bit slow with large files, but works wel
 Can work with basically every wordlist available online. (if set properly)
 Fully customizable via a simple .config file.
 
-*In-depth informations and working mechanism*
+In-depth informations and working mechanism
+-------------------------------------------
 
 Zen has two simple working mechanisms. Here they are:
 
@@ -34,7 +35,8 @@ Zen tried to match the given hash with one in the hashed dictionaries.
 If there IS a match, the password is cracked. If there IS NOT a match, the password is not cracked.
 This method is not 100% completed and is not available for now. It's being designed to operate with VERY LARGE dictionaries, by firstly computing the hashes, and then saving the hashes in many little files, speeding up the cracking. This method also generates a lot of files, so if you have a slow computer, do not really use it for now. This method is useful to distribuite you hashtabs, so your friends can crack with them without computing the hashes. If your dictionary is below 3-4 GB, you can use the DHS method as well. It will be available in the next updates, when the code is less hacky and more stable.
 
-*How to use*
+How to use
+----------
 
 Zen is very easy to use. Once you start the program, you will see a shell-like prompt. You have to insert only two commands to start an attack.
 Obviously, you'll need a dictionary (you can use the one included with Zen) in a readable format (like .txt or .dat). Then you'll need the hash you want to crack. Don't worry is you don't know which algorithm it uses, Zen will try to find out for you.
