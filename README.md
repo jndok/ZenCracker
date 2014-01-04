@@ -48,10 +48,10 @@ Now wait. If the file is very large, Zen will take a while to try all the hashes
 
 <ul>
 
-  <li>[Very nice dictionary for WPA cracking (40GB extracted)]("http://maurisdump.blogspot.it/2011/12/best-dictionaries-wordlist-for-wpa.html")</li>
-  <li>[Another big list of downloadable wordlists]("http://cyberwarzone.com/cyberwarfare/password-cracking-mega-collection-password-cracking-word-lists")</li>
-  <li>[Big list of wordlist sites]("http://hashcat.net/forum/thread-1236.html")</li>
-  <li>[Another list of wordlist sites (old though)]("http://www.room362.com/blog/2009/9/18/password-word-lists.html")</li>
+  <li>http://maurisdump.blogspot.it/2011/12/best-dictionaries-wordlist-for-wpa.html</li>
+  <li>http://cyberwarzone.com/cyberwarfare/password-cracking-mega-collection-password-cracking-word-lists</li>
+  <li>http://hashcat.net/forum/thread-1236.html</li>
+  <li>http://www.room362.com/blog/2009/9/18/password-word-lists.html</li>
 
 </ul>
 
@@ -61,10 +61,29 @@ Zen supports a .config file, where you can pre-load some settings, so you don't 
 
 <ul>
 
-  <li>method | The method used for cracking (DHS or PLHS)</li>
-  <li>dict | The path to the dictionary file.</li>
-  <li>chunk_size | The size (in bytes) of the data that will be read when cracking.</li>
+  <li>**method** | The method used for cracking (DHS or PLHS)</li>
+  <li>**dict** | The path to the dictionary file.</li>
+  <li>**chunk_size** | The size (in bytes) of the data that will be read when cracking.</li>
+
+</ul>
 
 The .config file is found in the Zen folder, under the /config folder. I recommend not to use a chunk_size bigger than 1024. Bugs may occur if this size is exceeded. If the path to the dictionary file is not found, the user must input it manually via the open command.
+
+Download
+--------
+
+There you can download the executables for Windows and OS X. They're hosted on MEGA, so please copy the following RSA keys in order to download.
+
+<ul>
+
+  <li>Win32 EXE file key: __**Cs86NVZhFs1643Ux_HXYpGjvtqFugdDrBCL9096d4jw**__</li>
+
+</ul>
+
+Download links:
+
+<ul>
+
+  <li>Windows</li>
 
 </ul>
