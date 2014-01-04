@@ -61,9 +61,9 @@ Zen supports a .config file, where you can pre-load some settings, so you don't 
 
 <ul>
 
-  <li>**method** | The method used for cracking (DHS or PLHS)</li>
-  <li>**dict** | The path to the dictionary file.</li>
-  <li>**chunk_size** | The size (in bytes) of the data that will be read when cracking.</li>
+  <li>method | The method used for cracking (DHS or PLHS)</li>
+  <li>dict | The path to the dictionary file.</li>
+  <li>chunk_size | The size (in bytes) of the data that will be read when cracking.</li>
 
 </ul>
 
@@ -76,7 +76,7 @@ There you can download the executables for Windows and OS X. They're hosted on M
 
 <ul>
 
-  <li>Win32 EXE file key: **Cs86NVZhFs1643Ux_HXYpGjvtqFugdDrBCL9096d4jw**</li>
+  <li>Win32 EXE file key: Cs86NVZhFs1643Ux_HXYpGjvtqFugdDrBCL9096d4jw</li>
 
 </ul>
 
