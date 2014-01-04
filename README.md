@@ -76,7 +76,7 @@ There you can download the executables for Windows and OS X. They're hosted on M
 
 <ul>
 
-  <li>Win32 EXE file key: __**Cs86NVZhFs1643Ux_HXYpGjvtqFugdDrBCL9096d4jw**__</li>
+  <li>Win32 EXE file key: **Cs86NVZhFs1643Ux_HXYpGjvtqFugdDrBCL9096d4jw**</li>
 
 </ul>
 
