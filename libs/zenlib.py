@@ -13,6 +13,8 @@
 # thing up. Thanks.                 # 
 #####################################
 
+# WORKS ON OS X, JUST CHANGE THE FOLDERS
+
 import os
 import hashlib
 import sys
